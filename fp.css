@@ -1,0 +1,52 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.bg{
+    background-image: url(foodpanda.jpg);
+    height:650px ;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    text-align: center;
+    padding: 60px;
+    width: 500px;
+    color: bisque;
+    color: black;
+}
+.text{
+    margin-top: 150px;
+    border: 2px solid rgb(192, 39, 64);
+    border-radius: 30px;
+    height: 400px;
+    width: 500px;
+    background-color:bisque;
+    color: rgb(95, 75, 75);
+    text-align: center;
+    box-shadow:  7px 8px 10px palevioletred ;
+}
+p{
+    margin-bottom: 30px;
+}
+h1{
+    margin-bottom: 60px;
+    color: black;
+    text-shadow: 2px 2px 4px rgb(66, 64, 64);
+}
+button{
+    background-color: rgb(209, 60, 90);
+    border-radius: 6px;
+    height: 30px;
+    width: 80px;
+    border: 1px solid rgb(122, 57, 76);
+    text-align: center;
+    box-shadow: 2px 2px 4px 2px rgb(155, 27, 48);
+    color: white;
+}
+.button1:hover {
+    background-color: #04AA6D;
+    color: rgb(163, 92, 92);
+  }
